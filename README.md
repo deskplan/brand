@@ -38,12 +38,20 @@ La marque est **theme-safe** : le glyphe est blanc **sur le badge coloré**, jam
 
 Palette complète (surfaces sombres comprises) : [`colors.md`](colors.md).
 
+Le **Bleu X** (`#01426A`, Pantone 7694 C) est la couleur institutionnelle de l'**École polytechnique** : DeskPlan la reprend comme couleur primaire. Le logotype officiel de l'École, lui, ne fait pas partie de ce dépôt et doit être repris depuis les fichiers fournis par la Direction de la communication, sans modification.
+
 ## Usage
 
 **À faire** — laisser une marge de dégagement autour de la marque au moins égale à la hauteur du « D » ; utiliser les fichiers vectoriels dès que possible ; respecter le couple bleu X / orange X.
 
 **À éviter** — reproduire, incliner ou déformer le glyphe ; changer les couleurs ; poser la marque blanche sur un fond clair (ou l'inverse) ; ajouter ombres ou contours.
 
+## Affiliation
+
+<img src="idcs-logo.png" alt="IDCS Research Facilities" height="40">
+
+DeskPlan est développé par l'**IDCS** (Research Facilities) de l'**École polytechnique**.
+
 ## Marques &amp; droits
 
-« DeskPlan » et son iconographie sont des marques du **CPHT / CMLS — IDCS, École polytechnique**. Ces éléments graphiques identifient le projet ; merci de ne pas les réutiliser pour un autre produit ni de les modifier hors de ce dépôt.
+« DeskPlan » et son iconographie sont des marques du **CPHT / CMLS — IDCS, École polytechnique**. Ces éléments graphiques identifient le projet ; merci de ne pas les réutiliser pour un autre produit ni de les modifier hors de ce dépôt. Le logotype de l'École polytechnique et le logo IDCS restent la propriété de l'École et de l'IDCS.
